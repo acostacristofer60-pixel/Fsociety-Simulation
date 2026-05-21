@@ -15,6 +15,8 @@ Ninguna herramienta realiza ataques reales ni modifica sistemas.
 - Animaciones en terminal
 - Compatible con Termux, Linux y macOS
 
+<img width="1024" height="637" alt="Captura de pantalla_20260521_122139" src="https://github.com/user-attachments/assets/934c3a65-9f41-414a-91aa-bfe2731f8cfd" />
+
 ---
 
 # Instalación
